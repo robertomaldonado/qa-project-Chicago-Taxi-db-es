@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT vehicle_id) 
+FROM cabs;
